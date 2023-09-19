@@ -7,3 +7,6 @@ npx shadcn-ui@latest init
 npx shadcn-ui@latest add button
 
 https://dashboard.clerk.com/
+
+npm install @clerk/nextjs
+
